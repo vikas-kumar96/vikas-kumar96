@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm passionate about software development, testing
 
 ## 🔧 Technologies & Tools
 - **Programming Languages**: Java, JavaScript, Python
-- **Web Development**: HTML5, CSS3, Node.js
+- - **Manual Testing**: Test Case Design, Test Plan Creation
+- **Web Development**: HTML5, Node.js
 - **Testing Frameworks**: Selenium, Cypress
 - **API Testing**: Postman
 - **Databases**: MySQL
