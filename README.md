@@ -13,11 +13,12 @@ Welcome to my GitHub profile! I'm passionate about software development, testing
 - **CI/CD**: Jenkins
 
 ## 📄 Resume
-You can check out my resume [https://drive.google.com/file/d/1WRfDTqrogyz2H197iDyHXYdrtOPEMOdv/view?usp=sharing](#).
+You can check out my resume [https://drive.google.com/file/d/1WRfDTqrogyz2H197iDyHXYdrtOPEMOdv/view?usp=sharing]
 
 ## 🌐 Connect with Me
-- **LinkedIn**: [https://www.linkedin.com/in/vikas-bhatam-13673b284/](#)
-- **Gmail**: [vikasbhatam9643@gmail.com](#)
+- **LinkedIn**: [https://www.linkedin.com/in/vikas-bhatam-13673b284/]
+- **Gmail**: [vikasbhatam9643@gmail.com]
+  
 Feel free to explore my repositories and projects. I'm always excited to collaborate on new challenges and opportunities!
 
 ## 📌 Pinned Projects
