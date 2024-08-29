@@ -25,9 +25,23 @@ Feel free to explore my repositories and projects. I'm always excited to collabo
 
 Here are some of my key projects:
 
-- [**Project 1**](https://github.com/vikas-kumar96/HealthHub): Conducted manual testing for validation and automation using Cypress.Created test plans, summary reports, and bug reports to document and track issues.
-- [**Project 2**](https://github.com/vikas-kumar96/Evaluation_Submission_Vikas_Kumar): Validated multiple API endpoints for an e-commerce app using Rest Assured and Cypress. Implemented the Page Object Model (POM) for efficient API testing.
-- [**Project 3**](https://github.com/vikas-kumar96/Selenium_Hands-on_and_API-Testing-Project): Implemented test automation for an e-commerce app using Selenium and the Page Object Model.
+- [**HealthHub Project (Manual Testing/Automation Using Cypress)**](https://github.com/vikas-kumar96/HealthHub):
+  
+- Developed and executed test scenarios and cases. 
+- Conducted manual testing for validation and automation using Cypress.
+- Created test plans, summary reports, and bug reports to document and track issues.
+  
+- [**Dummy Json/Carts (API Testing using Rest Assured)**](https://github.com/vikas-kumar96/Evaluation_Submission_Vikas_Kumar):
+  
+- Validated multiple API endpoints for an e-commerce app using Rest Assured and Cypress.
+- Developed and executed frontend tests with Cypress and backend validation with Rest Assured.
+- Implemented the Page Object Model (POM) for efficient API testing.
+  
+- [**Tutorials Ninja (Automation using Selenium)**](https://github.com/vikas-kumar96/Selenium_Hands-on_and_API-Testing-Project):
+  
+- Implemented test automation for an e-commerce app using Selenium and the Page Object Model.
+- Performed manual tests, including login, registration, product searches, and cart operations.
+- Utilized TestNG, property files, explicit waits, and assertions to enhance test coverage and reliability.
 
 Feel free to explore them and give feedback!
 
